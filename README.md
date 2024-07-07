@@ -41,8 +41,8 @@ pandas
 ```bash
 
   pip install -r requirements.txt
-  How to Run
 ```
+# How to run
 ### Step 1: Run the Web Scraper
 The first step is to run the WebScraper.py script to collect supplier data and create the dataset.
 
